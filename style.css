@@ -70,3 +70,14 @@ footer { text-align: center; color: var(--muted); font-size: .9rem; padding: 3re
 .papers li { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: .9rem 1.1rem; margin-bottom: .8rem; }
 .papers span { display: block; color: var(--muted); font-size: .92rem; margin: .2rem 0; }
 .papers a { font-size: .92rem; font-weight: 600; }
+
+.article { padding-top: 4rem; }
+.article h1 { font-size: clamp(1.8rem, 5vw, 2.5rem); }
+.article h2 { margin-top: 2rem; }
+.article blockquote { margin: 1.5rem 0; padding: .2rem 1.2rem; border-left: 3px solid var(--accent); color: var(--muted); font-size: 1.1rem; }
+.meta { color: var(--muted); font-size: .95rem; margin-top: 0; }
+.article-list { list-style: none; padding: 0; }
+.article-list li { margin-bottom: 1.6rem; }
+.article-list a { font-size: 1.15rem; font-weight: 600; }
+.article-list p { margin: .2rem 0 0; color: var(--muted); }
+.date { display: block; color: var(--muted); font-size: .9rem; }
