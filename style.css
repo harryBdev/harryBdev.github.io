@@ -81,3 +81,6 @@ footer { text-align: center; color: var(--muted); font-size: .9rem; padding: 3re
 .article-list a { font-size: 1.15rem; font-weight: 600; }
 .article-list p { margin: .2rem 0 0; color: var(--muted); }
 .date { display: block; color: var(--muted); font-size: .9rem; }
+.group-title { margin-top: 1rem; }
+.group-intro { color: var(--muted); margin-top: -.4rem; }
+.empty { color: var(--muted); font-style: italic; }
